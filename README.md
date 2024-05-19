@@ -10,10 +10,10 @@
 ![image](https://github.com/pirateharishs/SIH-Workshop/assets/166011385/8911919d-de66-4f25-9fac-322b54c159bf)
 
 ## 4. Fourth Slide
-![image](https://github.com/pirateharishs/SIH-Workshop/assets/166011385/8b8ef66b-4c86-4ea4-a7dd-b01a6c6f7c17)
+![image](https://github.com/pirateharishs/SIH-Workshop/assets/166011385/c2466899-7f33-4741-8465-caddce6632a0)
 
 ## 5. Fifth Slide
-![image](https://github.com/pirateharishs/SIH-Workshop/assets/166011385/c2466899-7f33-4741-8465-caddce6632a0)
+![image](https://github.com/pirateharishs/SIH-Workshop/assets/166011385/8b8ef66b-4c86-4ea4-a7dd-b01a6c6f7c17)
 
 ## 6. Sixth Slide
 ![image](https://github.com/pirateharishs/SIH-Workshop/assets/166011385/5002c0d4-4c10-4fd7-be69-da77873fb3f7)
